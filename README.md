@@ -1,4 +1,4 @@
-# vim_git
+# dotfiles
 My vimrc as used in WSL (Windows uses seperate vimrc, changes to this vimrc are not reflected as such). If you would like to combine it with preset configurations like amix, follow the instructions to install their configuration, then use their vimrc as your main vimrc and add personalizations at the end of the file (also ensure that it points to the amix file).
 
 ## Instructions
