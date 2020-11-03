@@ -5,3 +5,5 @@
 !.gitignore
 !.vimrc
 !.bashrc
+!.zshrc
+!.tmux.conf
