@@ -1,1 +1,1 @@
-C:/Users/flawn/vim_git/.vimrc
+/mnt/c/Users/flawn/vim_git/.vimrc
